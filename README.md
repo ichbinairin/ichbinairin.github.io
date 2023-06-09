@@ -1,21 +1,70 @@
-# ichbinairin.github.io
+# Getting Started with Create React App
 
-Pentru a instala și rula acest proiect, urmați aceste instrucțiuni:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Descărcați proiectul: Descărcați fișierele proiectului într-un folder de pe calculatorul dvs.
+## Available Scripts
 
-Structurați fișierele: Asigurați-vă că aveți următoarele fișiere în folderul proiectului:
+In the project directory, you can run:
 
-Fisierul HTML principal (de exemplu, index.html) care va fi pagina de pornire a website-ului si fisierele reprezentand alte pagini web spre care face index trimitere (about.html, tickets.html, etc)
-Fișiere CSS (app.css) pentru stilizarea paginilor HTML.
-Fișiere JavaScript (script.js) pentru funcționalitățile interactive.
+### `npm start`
 
-Deschideți fișierul HTML: Deschideți fișierul HTML principal (index.html) într-un editor de cod sau într-un browser web pentru a vizualiza și edita codul.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Editați fișierele HTML, CSS și JS: Editați fișierele HTML, CSS și JS pentru a adăuga conținutul, stilurile și funcționalitățile dorite în website.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Salvați modificările: După ce ați terminat de editat fișierele, salvați-le.
+### `npm test`
 
-Rulați website-ul: Pentru a rula website-ul într-un browser web, deschideți fișierul HTML principal (index.html) prin dublu-click pe acesta. Pagina web se va deschide în browser și veți putea vedea rezultatul.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Notă: Asigurați-vă că aveți un browser web instalat pe calculatorul dvs. și că fișierele HTML, CSS și JS sunt corect interconectate în codul HTML. De asemenea, verificați că fișierele CSS și JS sunt incluse în fișierul HTML utilizând etichetele corespunzătoare (<link> pentru CSS și <script> pentru JS).
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

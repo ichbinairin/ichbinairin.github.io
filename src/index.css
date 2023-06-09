@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Museo", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f5d9d5;
+  ;
+}
+
+code {
+  font-family: "Nunito", sans-serif;
+}
+
+
