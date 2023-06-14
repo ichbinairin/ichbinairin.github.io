@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c25c49d.css",
-    "main.js": "/static/js/main.d525ddba.js",
+    "main.css": "/static/css/main.12779b5c.css",
+    "main.js": "/static/js/main.8c63015c.js",
     "static/js/787.365d3870.chunk.js": "/static/js/787.365d3870.chunk.js",
     "static/media/MuffinAboutUs.jpg": "/static/media/MuffinAboutUs.c0928bdae9139ce2d551.jpg",
     "static/media/gumball.png": "/static/media/gumball.3fbfeebba0526f0a7001.png",
@@ -10,12 +10,12 @@
     "static/media/CakeCream.png": "/static/media/CakeCream.aa1dcbf0fae716147acf.png",
     "static/media/hand2.png": "/static/media/hand2.216eea8df9667f4eb96f.png",
     "index.html": "/index.html",
-    "main.4c25c49d.css.map": "/static/css/main.4c25c49d.css.map",
-    "main.d525ddba.js.map": "/static/js/main.d525ddba.js.map",
+    "main.12779b5c.css.map": "/static/css/main.12779b5c.css.map",
+    "main.8c63015c.js.map": "/static/js/main.8c63015c.js.map",
     "787.365d3870.chunk.js.map": "/static/js/787.365d3870.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c25c49d.css",
-    "static/js/main.d525ddba.js"
+    "static/css/main.12779b5c.css",
+    "static/js/main.8c63015c.js"
   ]
 }
