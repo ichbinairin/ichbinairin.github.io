@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Nunito", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f5d9d5 !important; 
+  ;
+}
+
+code {
+  font-family: "Nunito", sans-serif;
+}
+
+.blurb h2 {
+   color: #EA1C2C;
+   font-weight: 300;
+   font-size: 2.5rem;
+}
+
+.blurb p {
+    color: #6e3b4c;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+
+.content {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.candy-icon {
+  border-radius: 4rem;
+  width: 20rem;
+  padding-bottom: 5px;
+}
+
+.searchboxHeader {
+  margin-top: 2em;
+  background-image: url(./imgs/CakeCream.png);
+  border-radius: 1em;
+  padding: 3em;
+}
+
+.searchbar-title {
+  font-weight: 500;
+  font-size: 6em;
+  color:white;
+}
+
+a:link, a:visited, a:hover, a:active{
+  text-decoration: none;
+}
+
+#aboutPage {
+  padding: 5em 8em 5em 8em;
+  font-weight: 300;
+  font-size: 2rem;
+  color:white;
+  font-family: "Nunito", sans-serif;
+}
+
+#aboutPage img {
+  border-radius: 100%;
+  width: 20rem;
+  border: black, 5px;
+  align-items: center;
+  padding-bottom: 3rem;
+}
+
+#aboutPage .about-paragraph {
+  text-align: justify;
+}
+
+#headingGroup span {
+    color: #EA1C2C;
+}
+
+#headingGroup h1 {
+    font-weight: 300;
+    font-size: 4rem;
+    color: white;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+    .blurb h2 {
+        font-size: 2rem;
+    }
+}
